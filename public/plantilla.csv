@@ -1,0 +1,4 @@
+nombre,apellido,cedula,edad,sexo,hospital,area,cama,estado,condicion,contacto
+Maria Jose,Rodriguez,V-12345678,34,F,catia,Emergencia - Piso 1,12,Estable,Fractura en brazo derecho,0412-0000000
+Jose Gregorio,Martinez,,52,M,carlos-arvelo,UCI,3,Critico,Politraumatismo,
+Desconocido,,,,M,perez-carreno,Emergencia,,No identificado,Hombre adulto ~40 anos sin documentos,

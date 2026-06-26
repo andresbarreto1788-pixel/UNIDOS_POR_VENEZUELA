@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" width="320" height="320" role="img" aria-label="Unidos por Venezuela">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1E5BC6"/>
+      <stop offset="1" stop-color="#003DA5"/>
+    </linearGradient>
+  </defs>
+  <!-- fondo circular azul -->
+  <circle cx="160" cy="160" r="156" fill="url(#sky)"/>
+  <circle cx="160" cy="160" r="156" fill="none" stroke="#FFCD00" stroke-width="6"/>
+
+  <!-- corazon con bandera de Venezuela -->
+  <g transform="translate(160 150)">
+    <path id="heart" d="M0 78 C -78 22 -86 -44 -36 -64 C -8 -76 8 -56 0 -40 C 8 -56 36 -76 64 -52 C 104 -20 60 28 0 78 Z"
+          transform="scale(1.05)"/>
+    <clipPath id="heartClip"><use href="#heart"/></clipPath>
+    <g clip-path="url(#heartClip)">
+      <rect x="-120" y="-90" width="240" height="60" fill="#FFCD00"/>
+      <rect x="-120" y="-30" width="240" height="60" fill="#003DA5"/>
+      <rect x="-120" y="30"  width="240" height="80" fill="#CF142B"/>
+      <!-- arco de 8 estrellas blancas -->
+      <g fill="#FFFFFF">
+        <circle cx="-52" cy="6"  r="4.5"/>
+        <circle cx="-37" cy="-2" r="4.5"/>
+        <circle cx="-20" cy="-7" r="4.5"/>
+        <circle cx="-2"  cy="-9" r="4.5"/>
+        <circle cx="16"  cy="-7" r="4.5"/>
+        <circle cx="33"  cy="-2" r="4.5"/>
+        <circle cx="48"  cy="6"  r="4.5"/>
+        <circle cx="-2"  cy="-9" r="4.5"/>
+      </g>
+    </g>
+    <use href="#heart" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  </g>
+
+  <!-- manos protectoras (unidad) -->
+  <g fill="#FFCD00" opacity="0.95">
+    <path d="M60 232 q22 -34 56 -22 q-30 6 -40 30 q-8 -6 -16 -8 Z"/>
+    <path d="M260 232 q-22 -34 -56 -22 q30 6 40 30 q8 -6 16 -8 Z"/>
+  </g>
+</svg>

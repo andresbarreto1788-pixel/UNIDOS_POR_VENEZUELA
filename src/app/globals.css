@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --max: 1120px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 antialiased;
+}
+
+.container-app {
+  width: 100%;
+  max-width: var(--max);
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+
+/* Etiquetas de estado */
+.badge {
+  @apply inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-semibold;
+}
+.badge-estable { @apply bg-emerald-100 text-emerald-800; }
+.badge-critico { @apply bg-red-100 text-red-800; }
+.badge-observacion { @apply bg-amber-100 text-amber-800; }
+.badge-alta { @apply bg-sky-100 text-sky-800; }
+.badge-referido { @apply bg-violet-100 text-violet-800; }
+.badge-noid { @apply bg-slate-200 text-slate-700; }
+.badge-fallecido { @apply bg-zinc-800 text-zinc-100; }
+
+/* Franja de bandera */
+.flag-strip {
+  background: linear-gradient(
+    to bottom,
+    #FFCD00 0 33.33%,
+    #003DA5 33.33% 66.66%,
+    #CF142B 66.66% 100%
+  );
+}
+
+/* Scrollbar discreto */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-thumb { @apply bg-slate-300 rounded-full; }
+::-webkit-scrollbar-thumb:hover { @apply bg-slate-400; }

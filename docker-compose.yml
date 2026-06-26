@@ -1,0 +1,62 @@
+# Stack de producción para auto-hospedaje (VPS) — Unidos por Venezuela.
+# Reinicio automático, healthchecks, límites de recursos y persistencia.
+#   docker compose up -d --build
+#   docker compose logs -f
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: unidos_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+      POSTGRES_DB: unidos
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d unidos"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    deploy:
+      resources:
+        limits:
+          memory: 512m
+    networks: [unidos]
+
+  app:
+    build: .
+    container_name: unidos_app
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      # connection_limit acota el pool de Prisma para no agotar las
+      # conexiones de Postgres bajo alta concurrencia.
+      DATABASE_URL: "postgresql://postgres:${POSTGRES_PASSWORD:-postgres}@db:5432/unidos?schema=public&connection_limit=10&pool_timeout=20"
+      ADMIN_TOKEN: ${ADMIN_TOKEN:-cambia-esta-clave-secreta}
+      NEXT_PUBLIC_WHATSAPP: ${NEXT_PUBLIC_WHATSAPP:-584129317277}
+      NEXT_PUBLIC_SITE_URL: ${NEXT_PUBLIC_SITE_URL:-http://localhost:3000}
+      NODE_ENV: production
+    ports:
+      - "3000:3000"
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://localhost:3000/api/health || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 45s
+    deploy:
+      resources:
+        limits:
+          memory: 768m
+          cpus: "1.0"
+    networks: [unidos]
+
+volumes:
+  pgdata:
+
+networks:
+  unidos:
+    driver: bridge

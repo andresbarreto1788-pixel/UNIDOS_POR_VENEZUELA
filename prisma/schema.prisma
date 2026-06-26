@@ -1,0 +1,113 @@
+// Esquema de la base de datos - Unidos por Venezuela
+// PostgreSQL: al actualizar la informacion NO se pierden datos (migraciones versionadas)
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// --- Estado de la persona dentro del sistema hospitalario ---
+enum Estado {
+  ESTABLE
+  CRITICO
+  EN_OBSERVACION
+  DADO_DE_ALTA
+  REFERIDO
+  NO_IDENTIFICADO
+  FALLECIDO
+}
+
+model Hospital {
+  id        String    @id @default(cuid())
+  nombre    String
+  slug      String    @unique
+  ciudad    String
+  direccion String?
+  telefono  String?
+  mapsUrl   String?
+  personas  Persona[]
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+}
+
+model Persona {
+  id String @id @default(cuid())
+
+  // Identidad
+  nombre   String
+  apellido String?
+  cedula   String? // documento de identidad (opcional, puede no identificarse)
+  edad     Int?
+  sexo     String? // M / F / Otro
+
+  // Ubicacion dentro del hospital
+  hospital   Hospital? @relation(fields: [hospitalId], references: [id])
+  hospitalId String?
+  area       String? // sala, piso, pabellon, emergencia, UCI...
+  cama       String?
+
+  // Estado clinico / administrativo
+  estado    Estado  @default(EN_OBSERVACION)
+  condicion String? // descripcion breve de la condicion o lesiones
+
+  // Contacto / notas
+  contacto    String? // telefono de un familiar si se conoce
+  observacion String?
+
+  // Trazabilidad
+  fechaIngreso DateTime?
+  fuente       String? // de que listado/PDF salio el dato
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+
+  @@index([nombre])
+  @@index([apellido])
+  @@index([cedula])
+}
+
+enum EstadoBusqueda {
+  BUSCANDO
+  ENCONTRADO
+}
+
+// Personas desaparecidas reportadas por familiares desde el dashboard público.
+model Desaparecido {
+  id String @id @default(cuid())
+
+  // Identidad
+  nombre   String
+  apellido String?
+  edad     Int?
+  sexo     String?
+
+  // Descripción y señas
+  descripcion       String? // contextura, vestimenta, etc.
+  senasParticulares String? // tatuajes, cicatrices, lentes...
+  foto              String? // imagen comprimida (data URL base64)
+
+  // Dónde vivía / dónde se vio por última vez
+  ultimaUbicacion String? // lugar donde se vio por última vez
+  edificio        String? // edificio / residencia
+  direccion       String? // dirección, sector o urbanización
+  ciudad          String?
+
+  // Estado de la búsqueda
+  estadoBusqueda EstadoBusqueda @default(BUSCANDO)
+
+  // Quién reporta (para contactar)
+  contactoNombre   String?
+  contactoTelefono String
+  relacion         String? // parentesco con la persona buscada
+
+  vistas    Int      @default(0)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([nombre])
+  @@index([apellido])
+  @@index([estadoBusqueda])
+}

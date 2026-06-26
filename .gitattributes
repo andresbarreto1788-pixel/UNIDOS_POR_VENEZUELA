@@ -1,0 +1,4 @@
+# Forzar LF para que el entrypoint de Docker funcione en Linux/Railway
+* text=auto eol=lf
+*.sh text eol=lf
+docker-entrypoint.sh text eol=lf

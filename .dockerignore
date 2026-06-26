@@ -1,0 +1,13 @@
+node_modules
+.next
+.git
+.gitignore
+.env
+.env*.local
+DATOS REALES
+IMAGENES
+npm-debug.log*
+Dockerfile
+docker-compose.yml
+README.md
+.vercel

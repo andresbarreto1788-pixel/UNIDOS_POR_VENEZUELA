@@ -1,0 +1,39 @@
+{
+  "name": "Unidos por Venezuela",
+  "short_name": "Unidos VZLA",
+  "description": "Busca a familiares y personas heridas o desaparecidas del sismo en los hospitales de Venezuela.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#003DA5",
+  "theme_color": "#003DA5",
+  "lang": "es-VE",
+  "categories": ["health", "utilities", "social"],
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Buscar persona",
+      "short_name": "Buscar",
+      "url": "/buscar"
+    },
+    {
+      "name": "Hospitales",
+      "short_name": "Hospitales",
+      "url": "/hospitales"
+    }
+  ]
+}

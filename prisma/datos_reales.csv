@@ -1,0 +1,812 @@
+nombre,cedula,edad,sexo,hospital,area,cama,estado,condicion,contacto,observacion,procedencia,hospital_nom,fuente
+Abdly Abdelys,26254624,28,,ricardo-baquero,Cirugía General,17,EN_OBSERVACION,,,Dir: La Guaira: Caribe,,Hospital Ricardo Baquero González,consolidado-pdf+imagen
+Abello Matilde,,36,,luciani,,,FALLECIDO,Fallecida,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Abello Wilmari,,36,F,luciani,,,EN_OBSERVACION,,,Proc: Petare,Petare,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Abreu Ana,22036301,36,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Abreu Emma,,8,F,luciani,,,EN_OBSERVACION,,,Proc: Sabana Grande,Sabana Grande,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Abreu Jose,15810058,52,M,universitario-caracas,,,EN_OBSERVACION,,,Dir: Hoyo de la Puerta,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Abreu Paulina,,8,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Acosta Alexander,,47,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Acosta Ali,,47,M,luciani,,,EN_OBSERVACION,,,Proc: Baruta,Baruta,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Acosta Hasael,,13,M,luciani,,,EN_OBSERVACION,,,Proc: Baruta,Baruta,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Acosta Isael,,10,M,luciani,,,EN_OBSERVACION,,,Proc: Baruta,Baruta,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Acosta Israel,,10,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Acosta Yaneli,31760907,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Acosta Yolerfan,28136168,26,M,universitario-caracas,,,EN_OBSERVACION,,0412-3475759,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Aguilera Ana,20003134,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Alayon Suhyn,,25,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Albe Manuel,,77,M,luciani,,,EN_OBSERVACION,,,Proc: NR,NR,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Alcantara Amalis,17443332,39,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Alvarez Wilian,16125101,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Antequia Mayuli,12882457,50,F,universitario-caracas,,,EN_OBSERVACION,,0424-5860106,Dir: CACIQUE TIUNA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Arana Eduar,,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf
+Arrieta Dolis,,65,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Arrieta Doris,,65,F,luciani,,,EN_OBSERVACION,,,Proc: Baruta,Baruta,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Arrieta Oyola Doris,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Arteaga Aide,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Arteaga Gladys,,72,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Azocar Valeria,28544619,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Balbuena Wilmer,,37,M,luciani,,,EN_OBSERVACION,,,Proc: Petare,Petare,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Balbueno Wilmer,,37,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Baraja Andres,17491087,41,M,universitario-caracas,,,EN_OBSERVACION,,0424-2738577,Dir: PRIVADOS DE LIBERTAD,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Barreto Ricardo,,42,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Bastardo Veronica,30170626,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Bastida Adriana,17856045,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Becerra Leonardo,34800366,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Benedetti Yorlianis,25846221,29,F,universitario-caracas,,,EN_OBSERVACION,,0424-1737018,Dir: ALTAMIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Bernal Marcela,6049995,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Betancourt Maria,,74,F,luciani,,,FALLECIDO,Fallecida,,Proc: Petare,Petare,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Bisbal Clara,,62,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Blanco Carmen,,55,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Blanco Jose,,6,M,luciani,,,EN_OBSERVACION,,,Proc: El Hatillo,El Hatillo,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Blanco Yessika,,53,,luciani,PISO 2,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Bompard Rodni,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Bosparte Ronny,,33,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Boweyo Jose,26327360,,M,vargas-caracas,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Vargas de Caracas,consolidado-pdf
+Bracamonte Genesis,31428533,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Brizuela Gabriel,32781459,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Bueno Merido,17158021,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Cabarca Yenderlin,,13,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Cabrera Karina,,30,,luciani,TRAUMA,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Caceres Eloise,11061197,55,M,universitario-caracas,,,EN_OBSERVACION,,0426-1507138,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Caceres Nathalia,36192938,13,F,universitario-caracas,,,EN_OBSERVACION,,0424-1507138,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Caceres Patricia,32790475,18,F,universitario-caracas,,,EN_OBSERVACION,,0424-1507138,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Caldera Lewis,,10,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Cardenas Alexandra,28143770,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Cardozo Carla,,25,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Carrillo Yasmin,5424760,67,F,universitario-caracas,,,EN_OBSERVACION,,0412-1825267,Dir: LOS ROSALES,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Carrizo Viviana,33232603,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Castañeda Maria,,73,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Castaño Carlos,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Castaño Danna,,12,F,luciani,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Castellano Jose,21364204,35,M,universitario-caracas,,,EN_OBSERVACION,,0424-2738577,Dir: PRIVADOS DE LIBERTAD,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Castillo Ayari,26327913,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Castillo Victoria,,10,F,luciani,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Castro Juan,,26,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Chacon Carlos,,13,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Chacon Elizabeth,27374286,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf
+Chavez Meri,81462470,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Chirinos Alexandra,31995517,21,,ricardo-baquero,Cirugía General,15,EN_OBSERVACION,,,Dir: La Guaira: Carlos Julio,,Hospital Ricardo Baquero González,consolidado-pdf+imagen
+Cisnero Roja,,57,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Coa Deivis,18780841,36,M,universitario-caracas,,,EN_OBSERVACION,,0424-1534022,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Colmenares Darwin,25867267,,M,vargas-caracas,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Vargas de Caracas,consolidado-pdf
+Cordero Yadira,12763837,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Cordoba Eduanyelis,,6,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Cordova Arnaldo,,19,M,luciani,,,EN_OBSERVACION,Qx,,Proc: Guarenas,Guarenas,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Coronel Yonel M La Guaira,,,,vargas-caracas,,,EN_OBSERVACION,,,,,Hospital Vargas de Caracas,consolidado-pdf
+Cortez Noeli,22538576,30,F,universitario-caracas,,,EN_OBSERVACION,,0424-2562305,Dir: LAS MAYAS,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Cortez Yorimar,6340991,58,,ricardo-baquero,Cirugía General,12,EN_OBSERVACION,,,Dir: La Guaira: Caribe,,Hospital Ricardo Baquero González,consolidado-pdf+imagen
+Cuyan Fran,10235290,60,M,universitario-caracas,,,EN_OBSERVACION,,0424-2927910,Dir: LA FLORIDA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+De Abreu Geraldine,18709145,,F,vargas-caracas,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Vargas de Caracas,consolidado-pdf
+De Anzola Manuela,296723,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Deagrela Jose,13373135,48,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Delgado Edimar,,23,F,luciani,,,EN_OBSERVACION,,,Proc: San Martin,San Martin,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Diaz Ana,10576803,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Divito Rosa,,64,F,luciani,,,EN_OBSERVACION,,,Proc: Chacao,Chacao,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Drana Eduar,,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf
+Escalona Ivis,,55,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Escalona Joaquin,6482918,65,M,universitario-caracas,,,EN_OBSERVACION,,0414-9081729,Dir: EL VALLE,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Estevez Johnson,29571733,24,,ricardo-baquero,Cirugía General,11,EN_OBSERVACION,,,Dir: La Guaira: Monte Sano,,Hospital Ricardo Baquero González,consolidado-pdf+imagen
+Fernandez Ana,25699054,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf
+Fernandez Angel,16310014,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Fernandez Efrain,,31,M,luciani,,,EN_OBSERVACION,,,Proc: Catia,Catia,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Fernandez Neisy,,37,F,luciani,,,EN_OBSERVACION,,,Proc: Guarenas,Guarenas,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Fernandez Rodrigo,,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Frontado Miel,,7,,luciani,Qx,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Fuentes Alberto,,52,M,luciani,,,EN_OBSERVACION,,,Proc: Petare,Petare,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Fuentes Galvis Alberto,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Garavito Espitia Yohany,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Garcia Albani F La Guaira,,,,vargas-caracas,,,EN_OBSERVACION,,,,,Hospital Vargas de Caracas,consolidado-pdf
+Garcia Diaz Yenni Fernanda,,34,F,luciani,,,EN_OBSERVACION,,,Proc: Petare,Petare,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Garcia Diego,33423811,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Garcia Heilimar,32543420,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Garcia Jolisbe F La Guaira,,,,vargas-caracas,,,EN_OBSERVACION,,,,,Hospital Vargas de Caracas,consolidado-pdf
+Garcia Juver,27377514,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Georrin Valella,30114918,22,,ricardo-baquero,Cirugía General,10,EN_OBSERVACION,,,Dir: La Guaira: Playa Grande,,Hospital Ricardo Baquero González,consolidado-pdf+imagen
+Gil Cristofer,32919700,,M,vargas-caracas,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Vargas de Caracas,consolidado-pdf
+Godoy Eric,18749225,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Gomez Manuel,18814839,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Goncalvez Gabriel,82230906,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Gonzalez Albimar,,59,F,luciani,,,EN_OBSERVACION,,,Proc: Altamira,Altamira,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Gonzalez Alexander,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Gonzalez Alexandra,,42,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Gonzalez Daiberly,30527436,,F,vargas-caracas,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Vargas de Caracas,consolidado-pdf
+Gonzalez Elizabeth,17709218,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Gonzalez Isabel,29701695,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Gonzalez Mileibis,26468240,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Gonzalez Olga,,63,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Gonzalez Rafael,,39,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Gonzalez Stephany,,22,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Gonzalez Valeri,,10,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Gonzalez Valeria,31383685,,F,vargas-caracas,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Vargas de Caracas,consolidado-pdf
+Gonzalez Yaneska,,,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Gonzalez Yurmis,13828545,47,,ricardo-baquero,Cirugía General,1,EN_OBSERVACION,,,Dir: La Guaira: Carayaca,,Hospital Ricardo Baquero González,consolidado-pdf+imagen
+Gosling Raymond,29900166,49,M,universitario-caracas,,,EN_OBSERVACION,,0412-2520602,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Goyo Rafael,,32,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Granado Crisbel,23936261,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf
+Gualina Padron Efren,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Guapini Efren P,,2,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Guerra Emira,26019884,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf
+Guerra Evelin,17710344,,F,vargas-caracas,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Vargas de Caracas,consolidado-pdf
+Guerrero Deiverson,,20,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Guessu Estefani,31428812,,F,vargas-caracas,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Vargas de Caracas,consolidado-pdf
+Guillen Maria,6059288,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Gutierrez Jose,28747519,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf
+Guzman Angelica,13717596,48,F,universitario-caracas,,,EN_OBSERVACION,,0424-2668717,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Hanma Antonio,5072832,66,M,universitario-caracas,,,EN_OBSERVACION,,0424-2183524,Dir: AV PASCUAL,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Hernandez Cruz,4636722,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Herrero Merlano Gladiuska,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Hidalgo Elianni,32976229,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Ibarra Ana,,74,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Ibarra Wuikmer/Wilmer,15332705,45,M,universitario-caracas,,,EN_OBSERVACION,,0412-9646938,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Iglesias Ibsen,32359883,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Iscala Yenny,,42,F,luciani,,,EN_OBSERVACION,,,Proc: Baruta,Baruta,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Izquierdo Jean,,83,M,luciani,,,EN_OBSERVACION,,,Proc: Los Palos Grandes,Los Palos Grandes,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Jaimez Ruben Dario,6433372,74,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Jimenez Axiel,,4,,luciani,Qx,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+La Verde Victor,30334452,18,M,universitario-caracas,,,EN_OBSERVACION,,0412-8162456,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+LANDER SEBASTIAN M La Guaira,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Lemus Dilcia,13531664,54,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Leon Gonzalo,22916224,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Liscano Pedro,,40,M,luciani,,,EN_OBSERVACION,,,Proc: Chacaito,Chacaito,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Lopez Dukar,12115323,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Lopez Edis,6045544,70,F,universitario-caracas,,,EN_OBSERVACION,,0412-2928549,Dir: CATIA TAMARINDO / LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Lopez Francisca,33230043,16,F,universitario-caracas,,,EN_OBSERVACION,,0424-2414874,Dir: SAN AGUSTIN,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Lopez Franleydi,,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Lopez Haddy,,12,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Lopez Ingrid,10528878,58,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Lopez Mailin,15541666,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Lopez Nazare F La Guaira,,,,vargas-caracas,,,EN_OBSERVACION,,,,,Hospital Vargas de Caracas,consolidado-pdf
+Lopez Thais,13641870,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Lopez Valeria,31341560,20,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Loyo Visbal Clara,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Lu Dingpi,8358411,49,M,universitario-caracas,,,EN_OBSERVACION,,0424-3579081,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Machado Anabela,,9,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Marabito Espitia Joseani,,32,F,luciani,,,EN_OBSERVACION,,,Proc: Petare,Petare,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Marcano Katiuska,,56,F,luciani,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Marcano Rosa,4493435,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf
+Marcano Yenni,18384289,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf
+Marquez César,16312925,,M,vargas-caracas,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Vargas de Caracas,consolidado-pdf
+Marrero Crismaly,15164293,,F,vargas-caracas,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Vargas de Caracas,consolidado-pdf
+Marrero Yorgelis,31331652,20,F,universitario-caracas,,,EN_OBSERVACION,,0414-0209230,Dir: PARACOTO,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Martinez Jesus,,7,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Martinez Johan,,10,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Martinez Wuilliams,19367804,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Martinez Zoraida,6692167,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf
+Mayora Gustavo,11643841,52,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Mayore Elita,13069223,,,vargas-caracas,,,EN_OBSERVACION,,,Proc: El Junquito,El Junquito,Hospital Vargas de Caracas,consolidado-pdf
+Medina Francis,285659,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf
+Medina Nathaelia/Nathacha?,29565365,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Mendez Yesiree,,24,F,luciani,,,EN_OBSERVACION,,,Proc: Guarenas,Guarenas,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Mendoza Ana,5343446,72,F,universitario-caracas,,,EN_OBSERVACION,,0424-1519166,Dir: PINTO SALINAS,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Mendoza Mario,6274191,73,M,universitario-caracas,,,EN_OBSERVACION,,,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Mendoza Reina,6887465,62,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Mijares Celiana,19734177,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Milano Gladiuska,,25,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Millan Soilet,18142695,39,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Miranda Victoria,34054588,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Molina Nayibi,29768360,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Montilla Nancy,10813576,57,F,universitario-caracas,,,EN_OBSERVACION,,0414-1878802,Dir: CEMENTERIO,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Montolla Maria,25025734,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Mora Kimberly,24331288,34,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Morales Lesvia,5965096,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf
+Morales Maria,32807709,18,F,universitario-caracas,,,EN_OBSERVACION,,,Dir: LA GUAIRA EL TREBOL,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Morillo Anabela,34588981,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Moyano Jaime,26346743,28,M,universitario-caracas,,,EN_OBSERVACION,,0426-3844124,Dir: MARICHE,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Muñon Mariangel,,59,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Muñoz Gema,27797121,24,M,universitario-caracas,,,EN_OBSERVACION,,0416-7537984,Dir: EL VALLE,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Muñoz Josefina,,72,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Navas Yodalis,30072743,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Noguera Fabian,30334636,22,M,universitario-caracas,,,EN_OBSERVACION,,0424-2850105,Dir: PINTO SALINAS,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Novis Candelario,9416493,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Obregon Diego,,14,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Ojeda Carlos,12066889,51,M,universitario-caracas,,,EN_OBSERVACION,,0424-4437142,Dir: SANTA ROSA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Ojeda Yontaco,13470155,62,F,universitario-caracas,,,EN_OBSERVACION,,0424-8168787,Dir: EL VALLE COCHE,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Omaciento Sebastian,,16,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Ordaz Luisana,,58,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Oropeza Catia,11639511,52,F,universitario-caracas,,,EN_OBSERVACION,,0412-2928,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Oropeza Lourdes,14312852,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf
+Oropeza Socorro,11639518,53,F,universitario-caracas,,,EN_OBSERVACION,,0412-2728549,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Orozco Yusbelis,24140952,35,F,universitario-caracas,,,EN_OBSERVACION,,0412-9970844,Dir: SANTA ROSALIA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Ortiz Alvaro,4163469,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf
+Ortuño Yonny,5199652,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Pacheco Cesar,26327366,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Padilla Rodoski,,4,,luciani,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Padron Jesus Cirilo,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Palacio Jhon,25304211,31,M,universitario-caracas,,,EN_OBSERVACION,,0412-5749550,Dir: COCHE,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Palma Milagro,,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Pantoja Rainer,36085467,17,F,universitario-caracas,,,EN_OBSERVACION,,0424-2562305,Dir: LAS MAYAS,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Pantoja Toni,13409559,47,M,universitario-caracas,,,EN_OBSERVACION,,0424-2562305,Dir: LAS MAYAS,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Paredes Yudi,3883421,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Paredez Cruzcenaida,6405488,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Parra Estefania,,15,F,luciani,,,EN_OBSERVACION,,,Proc: Baruta,Baruta,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Parra Gabriela,,15,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Parra Misel Gabriela,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Pedro Jesus,,68,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Perdomo Valeria F La Guaira,,,,vargas-caracas,,,EN_OBSERVACION,,,,,Hospital Vargas de Caracas,consolidado-pdf
+Pereira Villamizar Maria Isabel,,8,F,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Perez Ariani,24175821,20,F,universitario-caracas,,,EN_OBSERVACION,,0414-7335723,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Perez David,6842773,61,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Perez Enrique M La Guaira,,,,vargas-caracas,,,EN_OBSERVACION,,,,,Hospital Vargas de Caracas,consolidado-pdf
+Perez Francisca,,63,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Perez Francisco,,63,M,luciani,,,EN_OBSERVACION,,,Proc: Petare,Petare,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Perez Katiuska,18817136,,M,vargas-caracas,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Vargas de Caracas,consolidado-pdf
+Perez Misarra,15550954,,,vargas-caracas,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Vargas de Caracas,consolidado-pdf
+Peroza Hilary,29536127,,F,vargas-caracas,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Vargas de Caracas,consolidado-pdf
+Peroza Samuel,33020891,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Pestano Margaret,19915985,45,,ricardo-baquero,Cirugía General,11,EN_OBSERVACION,,,Dir: La Guaira: Jaivata,,Hospital Ricardo Baquero González,consolidado-pdf+imagen
+Piñero Sebastian,,16,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Planas Jose,12163470,52,,ricardo-baquero,Cirugía General,6,EN_OBSERVACION,,,Dir: La Guaira: Carayaca,,Hospital Ricardo Baquero González,consolidado-pdf+imagen
+Portillo Omar,,40,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Quintero Barbara,13422890,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Quintero Crisdeilis,32865296,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Ramirez Escalante Mariangel,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Ramirez Jose,,37,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Ramirez Oriana,27006264,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Ramirez Yilmar,22316562,32,F,universitario-caracas,,,EN_OBSERVACION,,0424-5364882,Dir: PLAZA VENEZUELA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Ramos/Silva Maryelis,32111741,18,F,universitario-caracas,,,EN_OBSERVACION,,,Dir: Los Caracas / La Guaira,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Rengifo Deili,,46,F,luciani,,,EN_OBSERVACION,,,Proc: Petare,Petare,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Rengifo Guillermina,,46,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Rey Jennal,,29,M,luciani,,,EN_OBSERVACION,,,Proc: Chacao,Chacao,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Rey Jennicel,,29,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Ribas Fabiana,,23,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Rivas Frankenil,,53,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Rivas Lopez Francis,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Rivero Daniel,,60,M,luciani,,,EN_OBSERVACION,,,Proc: Macaracuay,Macaracuay,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Rivero Karleidi,36091784,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Rodoski Padilla,,52,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Rodriguez Eduardo,,65,M,luciani,,,EN_OBSERVACION,,,Proc: Petare,Petare,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Rodriguez Kiara Antonia F La Guaira,,,,vargas-caracas,,,EN_OBSERVACION,,,,,Hospital Vargas de Caracas,consolidado-pdf
+Rodriguez Maikel,16208203,42,M,universitario-caracas,,,EN_OBSERVACION,,0412-2091099,Dir: COCHE,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Rojas Rafael,,50,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Romero Jose,,60,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Rondon Angel,,12,M,luciani,,,EN_OBSERVACION,,,Proc: Baruta,Baruta,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Rondon Dayana,,18,,perez-carreno,,,EN_OBSERVACION,años,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Rondon Fran,19659867,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Rosier Liz,26068002,28,F,universitario-caracas,,,EN_OBSERVACION,,0412-9095086,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Rueda Jose,15430608,45,M,universitario-caracas,,,EN_OBSERVACION,,0416-7089152,Dir: AV LIBERTADOR,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Salazar Arturo,,13,M,luciani,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Salazar Juan,27044236,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Sanchez Jose,32320521,19,M,universitario-caracas,,,EN_OBSERVACION,,,,,Hospital Universitario de Caracas,consolidado-pdf
+Sandoval Adriana,34518879,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Sandoval Doris,4029093,80,F,universitario-caracas,,,EN_OBSERVACION,,0424-2577096,Dir: AVENIDA LECUNA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Semeria Irllis,,49,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Sequera Blanco Sofia,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Sequera Sofia,,15,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Serrano Gonzalez Nancy,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Serrano Nancy,,67,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Silva Ibrahim,20562844,35,M,universitario-caracas,,,EN_OBSERVACION,,,Dir: CATIA LA MAR,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Silva Indiana,14929760,46,F,universitario-caracas,,,EN_OBSERVACION,,0412-0109465,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Sivira Leoneidy,25175345,30,,ricardo-baquero,Cirugía General,14,EN_OBSERVACION,,,Dir: La Guaira: Tanaguarena,,Hospital Ricardo Baquero González,consolidado-pdf+imagen
+Solorzano Amar Ño,31445070,18,F,universitario-caracas,,,EN_OBSERVACION,,0412-3175785,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Somoza Riand,15267293,19,,universitario-caracas,,,EN_OBSERVACION,,0412-2983051,Dir: EL VALLE,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Sosa Emilia,3409148,78,F,universitario-caracas,,,EN_OBSERVACION,,0414-3367038,Dir: AV VICTORIA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Soza Alejandra,6904629,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Spinola Kelly,17482090,38,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Stabilito Amilcar,23241059,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Suarez Granado Rene,,,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Suarez Rene,,62,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Sucre Petra,2945823,,,perez-carreno,TRAUMASHOCK,,EN_OBSERVACION,traumachk,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Teran Audia,11055173,54,F,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Ricardo Baquero González,consolidado-pdf
+Teran Tenia,11409997,55,,ricardo-baquero,Cirugía General,3,EN_OBSERVACION,,,Dir: La Guaira: Av Principal,,Hospital Ricardo Baquero González,consolidado-pdf+imagen
+Torrealba Nuvia,,68,F,luciani,,,EN_OBSERVACION,,,Proc: Chacao,Chacao,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Torrealba Rodriguez Sebastian,,,,jm-de-los-rios,,,EN_OBSERVACION,,,,,Hospital J.M. de los Ríos (Niños),consolidado-pdf
+Torres Isabel,4718019,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Torres Milagros,,46,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Tortoso Oscar,20558047,37,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Tovar Luisana,17443980,17,F,universitario-caracas,,,EN_OBSERVACION,,0412-6392426,Dir: EL VALLE,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Tovar Yeison,,17,,ricardo-baquero,Cirugía General,,EN_OBSERVACION,,,,,Hospital Ricardo Baquero González,consolidado-pdf
+Trigoso Carlo,8418724,59,M,universitario-caracas,,,EN_OBSERVACION,,0412-1290170,Dir: LA VEGA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Trujillo Elian,,19,M,luciani,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Urbina Moises,22513789,30,M,universitario-caracas,,,EN_OBSERVACION,,,,,Hospital Universitario de Caracas,consolidado-pdf
+Uribe Veronica,22026527,,F,vargas-caracas,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Vargas de Caracas,consolidado-pdf
+Valero Fleici,13374754,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf
+Varya Carmen,22550086,,F,vargas-caracas,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Vargas de Caracas,consolidado-pdf
+Vascoceto Andreina,,43,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Vasconcelo Andreina,,43,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Vasquez Luis,,77,M,luciani,,,EN_OBSERVACION,,,Proc: sin familiar,sin familiar,Hospital Domingo Luciani (El Llanito),consolidado-pdf
+Vega Samuel,,11,M,luciani,,,EN_OBSERVACION,,,Proc: Petare,Petare,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Velazquez Carmen,16705956,,F,vargas-caracas,,,EN_OBSERVACION,,,Proc: La Guaira,La Guaira,Hospital Vargas de Caracas,consolidado-pdf
+Viera Rosalinda,12717087,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Vilchez Brayan,,23,M,luciani,,,EN_OBSERVACION,,,Proc: Petare,Petare,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Winchester Kellys,,28,F,luciani,,,EN_OBSERVACION,,,Proc: Petare,Petare,Hospital Domingo Luciani (El Llanito),consolidado-pdf+docx
+Wu Hua Juan,8229616,47,M,universitario-caracas,,,EN_OBSERVACION,,0412-3958541,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Wu Susup,34553337,14,F,universitario-caracas,,,EN_OBSERVACION,,0412-3758541,Dir: LA GUAIRA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Yanes Silvia,3557870,77,,ricardo-baquero,Cirugía General,18,EN_OBSERVACION,,,Dir: La Guaira: Carabageda,,Hospital Ricardo Baquero González,consolidado-pdf+imagen
+Yegue Eiban,24058780,,,perez-carreno,TRIAJE,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,consolidado-pdf+docx
+Zambrano Domini,18274233,39,F,universitario-caracas,,,EN_OBSERVACION,,0412-2913570,Dir: CATIA,,Hospital Universitario de Caracas,consolidado-pdf+docx
+Franklin Alfonso,,65,,periferico-catia,,,EN_OBSERVACION,Sola / Caída 7:28,,Dir: Mosquito de Morolina,,Periférico de Catia,docx
+Machado Anarella,,9,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Rodríguez Sanelly,,12,,periferico-catia,,,EN_OBSERVACION,Contusion h. guaro / Sola / Consulta 3:46,,,,Periférico de Catia,docx
+Arteaga Beti,,51,,cruz-roja,,,EN_OBSERVACION,,12067370,Dir: La Candelaria,,Cruz Roja,docx
+Valencia Elix,,43,,periferico-catia,,,EN_OBSERVACION,Traumat. facial + Trauma temporal / Sola / Patín 3:25,,,,Periférico de Catia,docx
+Colmenaras Yadher,,3,,periferico-catia,,,EN_OBSERVACION,QVOg e. lacera Scap / Mamá / Caída 2:30,,,,Periférico de Catia,docx
+Ramírez Mariangel,,33,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Fermíne Espinosa,,,,periferico-catia,,,EN_OBSERVACION,,,Dir: Amador Cura Iza Macarao,,Periférico de Catia,docx
+Lama Daniela,,3,,periferico-catia,,,EN_OBSERVACION,Hijo / Caída 6:57,,Dir: 3er plan de la Selva,,Periférico de Catia,docx
+Muñoz Camila,,15,,cruz-roja,,,EN_OBSERVACION,,,Dir: Santa Monica,,Cruz Roja,docx
+Varela Angel,,47,,cruz-roja,,,EN_OBSERVACION,,,Dir: Sarria,,Cruz Roja,docx
+Oldaz Luisana,,58,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Zhangyou Chen,,57,,cruz-roja,,,EN_OBSERVACION,,,,,Cruz Roja,docx
+Araque Maria,28100561,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Angarita Carmen,12660680,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Brito David,30678485,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Pérez Carmen,,64,,cruz-roja,,,EN_OBSERVACION,,,Dir: La Candelaria,,Cruz Roja,docx
+Sánchez Maria,,77,,periferico-catia,,,EN_OBSERVACION,Traumatismo Ext/Desblo / Sola / Caída 2:19,,,,Periférico de Catia,docx
+Mendez Yesire,,24,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Bisval Clara,,62,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Guerra Petra,,72,,cruz-roja,,,EN_OBSERVACION,,4806707,Dir: La Candelaria,,Cruz Roja,docx
+Albino Walter,,45,,periferico-catia,,,EN_OBSERVACION,Prosganda abdominal / Sola / Acc Moto 4:15,,,,Periférico de Catia,docx
+Izquierdo Iraima,,83,,luciani,,,FALLECIDO,Fallecida,,,,Hospital Domingo Luciani (El Llanito),docx
+Chacon Elizabeth,2734286,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Garcia Yenny,,34,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Yaleisy Haddan,,,,periferico-catia,,,EN_OBSERVACION,,,Dir: Campo Js. Vi Gallego,,Periférico de Catia,docx
+Cabeza Karina,,30,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+López Neiboy,,22,,periferico-catia,,,EN_OBSERVACION,Esposa / Caída 7:04,,Dir: Pio Caído,,Periférico de Catia,docx
+Rodríguez Yalitza,,57,,cruz-roja,,,EN_OBSERVACION,,,Dir: Av Lecuna,,Cruz Roja,docx
+Yarlys Contreras,,,,periferico-catia,,,EN_OBSERVACION,,,,,Periférico de Catia,docx
+Urbina Silibeto,,80,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Mayor Henderson,,15,,periferico-catia,,,EN_OBSERVACION,Les. puncta de ante #18 / Mamá / Caída 3:47,,,,Periférico de Catia,docx
+Cedeño Carlos,,76,,cruz-roja,,,EN_OBSERVACION,,,,,Cruz Roja,docx
+Rodríguez Pindiole,,51,,periferico-catia,,,EN_OBSERVACION,Sola / Caída 7:28,,Dir: Calle Principal,,Periférico de Catia,docx
+Pastono Gyamily,,32,,periferico-catia,,,EN_OBSERVACION,Papá / Caída 7:20,,Dir: Escalipto San Blas,,Periférico de Catia,docx
+Barreto Irama,,74,,cruz-roja,,,EN_OBSERVACION,,,Dir: La Candelaria,,Cruz Roja,docx
+Oropeza Lourdes,14312752,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Orana Eduar,,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Ender Rangel,,150,,periferico-catia,,,EN_OBSERVACION,Hermanos / Caída,,Dir: por Suere,,Periférico de Catia,docx
+Guavini Efren P.2,,30,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Cisnero Rosa,,57,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Gordofón Gonzalez,,,,periferico-catia,,,EN_OBSERVACION,,,,,Periférico de Catia,docx
+Mary Durón,,36,,periferico-catia,,,EN_OBSERVACION,Ciudad lumba torácica / Sola / Caída 2:36,,,,Periférico de Catia,docx
+Belandria Joffre,,63,,cruz-roja,,,EN_OBSERVACION,,,Dir: Valles del Tuy,,Cruz Roja,docx
+Pabón Mariangel,,21,,periferico-catia,,,EN_OBSERVACION,Traumatis. encéfalo leve / Mamá / Caída 2:20,,,,Periférico de Catia,docx
+Colina Yoandri,25872328,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Ortiz Alvaro,41634669,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Castillo Jorge,,26,,periferico-catia,,,EN_OBSERVACION,Nuevo ingreso / Hermano / Caída 2:16,,,,Periférico de Catia,docx
+Pérez Cecalio,,72,,cruz-roja,,,EN_OBSERVACION,,,Dir: La Candelaria,,Cruz Roja,docx
+Sanchez Jose,32.320.251,19,,universitario-caracas,,,EN_OBSERVACION,,0412-3574177,Dir: LOS TEQUES,,Hospital Universitario de Caracas,docx
+Valero Maria Felicia,13374764,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Danely Rodríguez,,,,periferico-catia,,,EN_OBSERVACION,,,Dir: Los Paraísos de #13,,Periférico de Catia,docx
+Granado Crisbel,23926261,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Figueira Fernanda,81659048,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Moreno Yader,,24,,periferico-catia,,,EN_OBSERVACION,B/edemat guiñat morita / Mamá / Caída 2:56,,,,Periférico de Catia,docx
+Marcano Yenni,10384289,,,perez-carreno,,,EN_OBSERVACION,Triaje,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Martinez Marlin,10576899,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Tirado Yunior,26372024,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Tingy José,,44,,cruz-roja,,,EN_OBSERVACION,,,Dir: La Candelaria,,Cruz Roja,docx
+Sucre Francis Medina,,,,perez-carreno,,,EN_OBSERVACION,años,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Mijares Isolibeth,,45,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Yaptista Yermin,13948173,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Hernández Jackeline,,62,,cruz-roja,,,EN_OBSERVACION,,,Dir: Misión Vivienda,,Cruz Roja,docx
+Morales Lesvia,29565096,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Querales Aleida,,64,,cruz-roja,,,EN_OBSERVACION,,99289918,Dir: La Guaira,,Cruz Roja,docx
+Martinez Zoraida,6092167,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Franco Antonio,,63,,cruz-roja,,,EN_OBSERVACION,,,Dir: Av Fuerzas Armadas,,Cruz Roja,docx
+Moises (Menor),,5,,cruz-roja,,,EN_OBSERVACION,,,Dir: La Candelaria,,Cruz Roja,docx
+Borges Liliane,,21,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Quetoy Ysabel,,36,,periferico-catia,,,EN_OBSERVACION,Esposa / Her. cuta 8l / Caída 7:14,,,,Periférico de Catia,docx
+Sequela Sofia,,19,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Helinsson Aquino,,,,periferico-catia,,,EN_OBSERVACION,,,,,Periférico de Catia,docx
+Machado Carmen,,77,,cruz-roja,,,EN_OBSERVACION,,,Dir: La Candelaria,,Cruz Roja,docx
+Rivas Fabina,,23,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Dias Sandra,11638321,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Moy Maria,,47,,cruz-roja,,,EN_OBSERVACION,,,Dir: La Candelaria,,Cruz Roja,docx
+Palma Yose,64488239,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Cervelan Fermíne,,,,periferico-catia,,,EN_OBSERVACION,,,,,Periférico de Catia,docx
+Valeria Contreras,,,,periferico-catia,,,EN_OBSERVACION,,,,,Periférico de Catia,docx
+De Santiago Juana,11688834,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Vasque Luis,,77,,luciani,,,FALLECIDO,Fallecida,,,,Hospital Domingo Luciani (El Llanito),docx
+Pireto Sebastián,,16,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Contreras Valeria,,18,,periferico-catia,,,EN_OBSERVACION,Her. cortada / Sola / Acc Moto 2:50,,,,Periférico de Catia,docx
+Cipriota Seville,,29,,periferico-catia,,,EN_OBSERVACION,Esposo / Caída 7:07,,,,Periférico de Catia,docx
+Zealario Alexis,,,,periferico-catia,,,EN_OBSERVACION,,,Dir: Carabilla + Sector Río,,Periférico de Catia,docx
+Espinosa Fermíne,,70,,periferico-catia,,,EN_OBSERVACION,Traumate. Elbon + muscular / Hija / Caída 3:00,,,,Periférico de Catia,docx
+Begochea Reinaldo,,43,,cruz-roja,,,EN_OBSERVACION,,,Dir: Sarria,,Cruz Roja,docx
+Capella Harold,,33,,periferico-catia,,,EN_OBSERVACION,Traumat. odf con lacera / Sola / Consulta 3:21,,,,Periférico de Catia,docx
+Castaño Dana,,17,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Balbueno Wilmed,,37,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Martínez Yamilith,,30,,periferico-catia,,,EN_OBSERVACION,Amiga / Caída 7:46,,Dir: Se. Grativia,,Periférico de Catia,docx
+Rodríguez Marbelis,,52,,cruz-roja,,,EN_OBSERVACION,,,Dir: Av Lecuna,,Cruz Roja,docx
+Sedeño Maryuri,14194021,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Cabarca Vendezilín,,13,,luciani,,,EN_OBSERVACION,Qx,,,,Hospital Domingo Luciani (El Llanito),docx
+Rivas Mary,,30,,periferico-catia,,,EN_OBSERVACION,Esposa / Caída 7:50,,Dir: La Cortada de Calle,,Periférico de Catia,docx
+López Marioly,,44,,periferico-catia,,,EN_OBSERVACION,Fractura de propina / Sola / Golpe 3:50,,,,Periférico de Catia,docx
+Ramírez Eleysa,,64,,cruz-roja,,,EN_OBSERVACION,,,Dir: Edif Carabobo,,Cruz Roja,docx
+Marcano Rosa,41498435,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Salazar Caroline,,6,,periferico-catia,,,EN_OBSERVACION,Sobrín / Caída 7:30,,Dir: Ly/ Guiñare,,Periférico de Catia,docx
+Omasiento Sebastián,,16,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Ramirez Barbara,18461886,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Martinez Gabriel,,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Blancos Yessica,,53,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Yacher Nancy Durán,,,,periferico-catia,,,EN_OBSERVACION,,,Dir: Ciudad Nueva Torre,,Periférico de Catia,docx
+Dias Victor,11537536,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+González Ana,,46,,periferico-catia,,,EN_OBSERVACION,Caída,,Dir: Calle San Isidro,,Periférico de Catia,docx
+Lloret Laura,,85,,cruz-roja,,,EN_OBSERVACION,,,Dir: La Candelaria,,Cruz Roja,docx
+Milano Gladivska,,29,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Lopez Haddy F,,42,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Alex Palencia,,,,periferico-catia,,,EN_OBSERVACION,,,,,Periférico de Catia,docx
+Haddan Yaleisy,,41,,periferico-catia,,,EN_OBSERVACION,Cassila para / Sola / Caída 4:10,,,,Periférico de Catia,docx
+Gutierrez Jose,28447519,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+González Anderson,,,,periferico-catia,,,EN_OBSERVACION,Fx/edem. de la ulna alt. izq. 5:11,,,,Periférico de Catia,docx
+Garcia Mario,5613119,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+García Antonio,,36,,cruz-roja,,,EN_OBSERVACION,,20101410,Dir: Barinas,,Cruz Roja,docx
+Mosquera Emili,28285779,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Omaña Raiza,,45,,cruz-roja,,,EN_OBSERVACION,,,Dir: La Candelaria,,Cruz Roja,docx
+Chen Boye,,21,,cruz-roja,,,EN_OBSERVACION,,,,,Cruz Roja,docx
+Marabito Joseani,,32,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Garcia Juan,17755829,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Pena Yohsen,,51,,periferico-catia,,,EN_OBSERVACION,Solo / Caída 7:56,,Dir: Magallanes,,Periférico de Catia,docx
+Olivero Ana,4281217,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Urbina Moises,22.89,30,,universitario-caracas,,,EN_OBSERVACION,,0424-3357891,Dir: VARGAS LAGUNILLAS,,Hospital Universitario de Caracas,docx
+Rodriguez Fredy,14424783,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Pedron Jesús,,68,,luciani,,,EN_OBSERVACION,,,,,Hospital Domingo Luciani (El Llanito),docx
+Herlane López,,68,,periferico-catia,,,EN_OBSERVACION,Fío / Caída 6:58,,,,Periférico de Catia,docx
+Alvarado Nairobis,,32,,cruz-roja,,,EN_OBSERVACION,,22262602,Dir: Barquisimeto,,Cruz Roja,docx
+Davila Marlene,19102824,,,perez-carreno,,,EN_OBSERVACION,,,,,Hospital Dr. Miguel Pérez Carreño,docx
+Rodríguez Cindy,,30,,periferico-catia,,,EN_OBSERVACION,Fr reg golpe maxilo / Sola / Caída 2:19,,,,Periférico de Catia,docx
+Harold Capella,,,,periferico-catia,,,EN_OBSERVACION,,,,,Periférico de Catia,docx
+Lloret Liliana,,59,,cruz-roja,,,EN_OBSERVACION,,,Dir: La Candelaria,,Cruz Roja,docx
+Simenez Axiel,,4,,luciani,,,EN_OBSERVACION,Qx,,,,Hospital Domingo Luciani (El Llanito),docx
+Luisanyeli Zapata,31962237,20,,periferico-catia,Piso de Cirugía,3,EN_OBSERVACION,,,Dir: Caracas: El Atillo,,Periférico de Catia,imagen
+Yeison Blanco,,17,,periferico-catia,Piso de Cirugía,18,EN_OBSERVACION,,,Dir: Caracas: Catia,,Periférico de Catia,imagen
+Daner Salazar,11557611,50,,periferico-catia,Piso de Cirugía,17,EN_OBSERVACION,,,Dir: Caracas: Catia,,Periférico de Catia,imagen
+Carla Leen,17700355,49,,periferico-catia,Traumatología (Femenino),2,EN_OBSERVACION,,,Dir: La Guaira,,Periférico de Catia,imagen
+Rosa Garce,20604161,31,,periferico-catia,Traumatología (Femenino),4,EN_OBSERVACION,,,Dir: La Guaira: Playa Grande,,Periférico de Catia,imagen
+Dilia Lemos,13531669,49,,periferico-catia,Traumatología (Femenino),16,EN_OBSERVACION,,,Dir: Caracas: La Silsa,,Periférico de Catia,imagen
+Ana Abreu,22636301,36,,periferico-catia,Traumatología (Femenino),20,EN_OBSERVACION,,,Dir: Caracas: Catia,,Periférico de Catia,imagen
+Álvaro Fabias,9960614,56,,periferico-catia,Traumatología (Masculino),7,EN_OBSERVACION,,,Dir: Caracas: Sabana Grande,,Periférico de Catia,imagen
+Jesús Orozco,8178191,63,,periferico-catia,Traumatología (Masculino),9,EN_OBSERVACION,,,Dir: La Guaira: Sumba,,Periférico de Catia,imagen
+Edvangely Carboda,,6,,periferico-catia,Pediatría,5,EN_OBSERVACION,,,Dir: Vía La Guaira,,Periférico de Catia,imagen
+Sofía López,,15,,periferico-catia,Pediatría,6,EN_OBSERVACION,,,Dir: La Guaira: Caribe,,Periférico de Catia,imagen
+Valeri López,,12,,periferico-catia,Pediatría,7,EN_OBSERVACION,,,Dir: La Guaira: Caribe,,Periférico de Catia,imagen
+Ashley López,,5,,periferico-catia,Pediatría,3,EN_OBSERVACION,,,Dir: La Guaira: Caribe,,Periférico de Catia,imagen
+Yeleny Chirino,12389975,58,,periferico-catia,Traumatología (Pasillo),,EN_OBSERVACION,,,Dir: La Guaira: Playa Grande,,Periférico de Catia,imagen
+José Alarcón,13515304,47,,periferico-catia,Traumatología (Pasillo),,EN_OBSERVACION,,,Dir: La Guaira: Caribe,,Periférico de Catia,imagen
+Jose Arvojo,,,,periferico-catia,Trauma Shock,1,EN_OBSERVACION,,,,,Periférico de Catia,imagen
+Petra Piñate,,,,periferico-catia,Trauma Shock,2,EN_OBSERVACION,,,,,Periférico de Catia,imagen
+José Marquez,,,,periferico-catia,Trauma Shock,3,EN_OBSERVACION,,,,,Periférico de Catia,imagen
+Bertma Laguna,,,,periferico-catia,Trauma Shock,4,EN_OBSERVACION,,,,,Periférico de Catia,imagen
+José Archeta,,,,periferico-catia,Trauma Shock,5,EN_OBSERVACION,,,,,Periférico de Catia,imagen
+Carmen Marín,,53,,periferico-catia,Hospitalización (Mujeres),4,EN_OBSERVACION,,,Dir: Caracas: Catia,,Periférico de Catia,imagen
+Amarili Blanco,,67,,periferico-catia,Hospitalización (Mujeres),3,EN_OBSERVACION,,,,,Periférico de Catia,imagen
+Hillali Rodriguez,23710358,31,,periferico-catia,Hospitalización (Mujeres),1,EN_OBSERVACION,,,Dir: Caracas: Catia,,Periférico de Catia,imagen
+Ivan Mendieta,,65,,periferico-catia,Hospitalización (Masculinos),2,EN_OBSERVACION,,,,,Periférico de Catia,imagen
+Deivy Rodriguez,,19,,periferico-catia,Hospitalización (Masculinos),1,EN_OBSERVACION,,,Dir: Caracas: Catia,,Periférico de Catia,imagen
+Yanel Coronel,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Maria A. Baez,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Andrea Garcia,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Maria Velma,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Lisbeth Delgado,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Yaritza Gomez,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Vanesa Gonzalez,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Evangelina Gonzalez,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Edgary Gonzalez,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+America Leal,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Josef Hassan,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Maura Gonzalez,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Patricia Gil,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Raina Medina,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Yoanny Aguilar,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Napleth Moreno,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Claudia Veede,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Juan Carlos Passo,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Maria Elena Pantano,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Maria Olivares,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Yosef Ali,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Neride Montoya,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Winston Gonzalez,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Danker Pintori,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+José Villegas,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Adonais Diaz Ozuna,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Camila Diaz Romero,,9,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Alexander Castillo,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Dayilbeth Uscategui,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Esteban Castro,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Marron Faueros,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Erinber Quintero,,,,vargas-caracas,,,EN_OBSERVACION,,,Dir: La Guaira,,Hospital Vargas de Caracas,imagen
+Moreno Yaneth,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Frayeli Moreno,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Barbara Moreno,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yandreina Corvo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yohan Corvo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yonaiker Diaz,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Danyerlis Diaz,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jose Torres,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Milagros Torres,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yanetsi Peralta,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Luis Diaz,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Dylan Moreno,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Maria Montilla,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Julio Santana,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jeferson Suarez Montilla,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Luis Rosales,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Nhivia Escalante,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yulianny Rosales,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Marco Palao,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Eddy Dimas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Francisco Salinas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yosli Coa,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Carmen Fuentes,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Carlos Ontiveros,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Carmen Aracely Ontiveros,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Daniela Tovar,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Milagros Hernandez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Rosmaily Solano,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yosemy Vasquez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Anly Vasquez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Mathias Vasquez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Amairu Figuera,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Marielui Monasterio,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Isaac Figuera,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ambar Figuera,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jasmin Puerta,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jose Alaque,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Solaiby Farres,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Mariolimar Benitez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Robert Rodriguez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ida Santana,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Katharin Salas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Isabela Berbesi,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Luis Rodriguez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Chairo Yipez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Carlos Farias,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Katherine Avilan,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Adrianny Diaz,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Adrian Diaz,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Francisco Avilan,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Miguel Cejas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Raiza Gonzales,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Gerdis Cejas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Thiago Arratia,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Rosana Monge,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jose Perez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Eberto Barrios,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Rosi de Barrios,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Roselma Santana,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Judith Gonzales,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ruben Santana,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Nairobi Flores,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Felipe Gomes,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ana Contreras,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ariana Urruchuto,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Fabiola Avilan,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Isola Avilan,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Branyeska Landaeta,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yarnelis Ochoa,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Aron Ochoa,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Derlysbeth Ferreira,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Freymary Izaguirre,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yosmely Idriarte,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Dainelis Hernandez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Enyer Navarro,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Beryah Perez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ender Rodriguez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Asdrubal Ulloa,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Javier Hernandez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Tabiana Taimes,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Wilkely Guerra,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jonailfer Zerpa,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Diana Hermoso,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Elias Hermoso,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Angel Hermoso,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Eikel Hermoso,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Dayana Sanchez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Sonia Marcano,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yanderson Diaz,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Liber Sanchez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yolimar Benavides,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Michel Chirico,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Marlene Andrade,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jean Farias,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jean Franco Farias,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jean Andrade Farias,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Carlos Paredes,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Carla Paredes,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Mercedes Pernia,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Magali Cabrera,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Nixon Ramirez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Adrian Hurtado,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Usiel Bello,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Rafael Viralles,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Joel Guevara,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Elias Yanez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Victor Ruiz,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Teobaldo Hernandez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Freddy Rodriguez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ericka Suarez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Aixa Sanoja,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yilmer Castillo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yeleisy Castillo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Belkys Castillo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Aurielys Delgado,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Anyelo Guarenas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yubelkys Garcia,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yeison Rada,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Manuel Castillo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jenifer Guerire,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Sofia Hernandez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Nicole Hernandez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Michell Hernandez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Norelkys Castillo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Gori Graterol,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Nahemi Graterol,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ashly Acosta,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Adriani Acosta,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Alau Acosta,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jean Pereira,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Alonis Carmona,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Arelis Serrano,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Abigail Renott,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Kenedy Renott,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Loromoto Larez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Noel Silva,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Nelson Silva,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ignamary Marval,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Anthony Salazar,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ana Salazar,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Hayderlyn Martinez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Mary Martinez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Marcos Planas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Marionnys Avangoren,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Luis Planas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Daniela Rodriguez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Anyela Planas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Miguel Planas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Pamela Placido,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Saray Sepulveda,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Viviana Mendoza,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ariari Mendoza,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Paola Mendoza,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Anyela Poleo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Josefina Delgado,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Miguel Poleo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Albert Delgado,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yanderson Sandoval,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Enais Orios,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Aldo Delgado,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Rosa Marquez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ronni Rugarita,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Bonnie Rugarita,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Marilyn Rugarita,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Josehuis Vasquez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yeili Gallardo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Williams Lopez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Rosely Marquez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jose Uscategui,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Wilbert Rivas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Wilbelys Lopez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yeibert Rugarita,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Richard Gonzalez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Velyari Blanco,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jeremias Dewentt,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Benjamin Dewentt,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Orlando Jose Dewentt,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Orlando Dewentt,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yanay Margarita Ulloa,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Domingo Blanco Verde,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Demita Ojeda,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Angelo Blanco,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Enyeri Leon,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yuleidy Perez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Maria Perez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yesica Perez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Dailenys Rodriguez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Enrique Leon,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Valentina Romero,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Belkys Caraballo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Harbelys Iriarte,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Alexandra Morales,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yondeiber Morales,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ronangel Olivares,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ronaiker Olivares,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Sorelis Romero,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Soili Romero,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yeison Farpon,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ariangely Romero,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yeikelis Garcia,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yeiker Garcia,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Charlie Jaramillo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Onas Cadenas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jose Gregorio Cadenas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Landru Cadenas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Eidert Yepez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Javier Navarro,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Soe Santander,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Carlos Lopez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yilmar Gomez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jelibeth Peña,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jorge Delgado,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yelitza Marcano,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Bladimir Gomez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Geraldine Castillo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Leonardo Mendoza,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Danilo Mendoza,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Leonel Mendoza,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Lourdes Ramos,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Daimari Pantoja,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Deibert Pantoja,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Joel Ramos,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yetxi Vivas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Orianni Rodriguez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Arianni Contramaestre,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Eliecer Martinez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yelimar Perez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Maria Elena Caldero,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Genesis Rodriguez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Wilmar Palomino,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jose G. Rodriguez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Crismar Rodriguez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Nilie Rodriguez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Nathaly Medina,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yosneidy Medina,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Rosana Medina,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jackson Rondon,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Katherin Roa,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Edgar Armanza,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Josue Nieves,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jenni Veroes,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jose Renott,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Daniel Leon,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Leudy Leon,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Claudia Blanco,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yeorgelys Galindez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ariangely Galindez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Misyeny Galindez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yenifer Galindez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Loreany Galindez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Loreangel Galindez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jesus Leon,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jean Leon,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Andy Leon,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Roger Nieves,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Dalia Gomez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ariana Lopez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Eneida Sanchez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yaritza Iriarte,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Douglas Castillo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Albert Medina,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ramon Medina,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Edgar Rojas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Reinal Suescum,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yefferson Suarez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Julio Cesar,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Angel Suere,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Iohandry Sucre,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Eulogio Rodriguez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ingrid Milano,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jonny Aparicio,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+William Milano,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Nestor Milano,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ingrid Milano Merchoreli,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Jeferson Milano,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Brigith Milano,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Israel Milano,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Frankie Milano,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Roselyn Sotil,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Gustavo Peralta,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Rodelis Peralta,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Oscar Gonzalez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Mari Briceño,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Dayena Olivares,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Sam Olivares,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Darwin Manuel Medina,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Derwin Manuel Medina,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Nelimar Gonzalez Medina,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Joel Alberto Garcia,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Genderson Jhoan Garcia,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Edwin Efrain Garcia,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Johen Davila,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Johalis Romero,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ariyanlis Arionnis Meza,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ariangelis Romero,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Danyer Romero,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Miguel Rojas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Leonardo Ismael Rojas,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Angeli Camargo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Roger Camargo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Soni Martinez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ronner Camargo,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Daniel Martinez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Yalaira Martinez Barrio,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Ilana Rodriguez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
+Nahomi Rodriguez,,,,playa-los-cocos,Albergue Campo de Golf,,ESTABLE,Sobreviviente en albergue,,,,"Punto de atención - Campo de Golf, Playa Los Cocos",imagen
