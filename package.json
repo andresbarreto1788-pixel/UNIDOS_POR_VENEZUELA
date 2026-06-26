@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "private": true,
   "description": "Plataforma humanitaria para la busqueda de heridos y desaparecidos del sismo en Venezuela",
+  "engines": {
+    "node": "20.x"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "prisma generate && next build",
-    "start": "prisma db push --skip-generate && next start",
+    "start": "prisma db push --skip-generate && (npm run db:seed || true) && next start",
     "lint": "next lint",
     "postinstall": "prisma generate",
     "db:push": "prisma db push",
@@ -18,21 +21,19 @@
   },
   "dependencies": {
     "@prisma/client": "^5.18.0",
-    "framer-motion": "^11.3.0",
-    "lucide-react": "^0.427.0",
-    "next": "14.2.5",
-    "papaparse": "^5.4.1",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
-  },
-  "devDependencies": {
     "@types/node": "^20.14.0",
     "@types/papaparse": "^5.3.14",
     "@types/react": "^18.3.0",
     "@types/react-dom": "^18.3.0",
     "autoprefixer": "^10.4.19",
+    "framer-motion": "^11.3.0",
+    "lucide-react": "^0.427.0",
+    "next": "^14.2.35",
+    "papaparse": "^5.4.1",
     "postcss": "^8.4.39",
     "prisma": "^5.18.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "tailwindcss": "^3.4.7",
     "tsx": "^4.16.0",
     "typescript": "^5.5.0"
