@@ -14,6 +14,7 @@
     "postinstall": "prisma generate",
     "db:push": "prisma db push",
     "db:seed": "tsx prisma/seed.ts",
+    "sync:localizados": "tsx scripts/syncLocalizados.ts",
     "db:studio": "prisma studio"
   },
   "prisma": {
